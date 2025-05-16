@@ -1,0 +1,6 @@
+name = "image-proxy"
+type = "python"
+compatibility_date = "2024-09-23"
+
+[build]
+command = "pip install requests"
